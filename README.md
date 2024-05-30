@@ -13,3 +13,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="Natural Language Processing Specialization V95CPD6QCAD4.jpg" alt="TensorFlow Logo" width="825">
+</p>
